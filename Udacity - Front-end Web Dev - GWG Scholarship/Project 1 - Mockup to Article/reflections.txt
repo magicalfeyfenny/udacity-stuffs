@@ -1,0 +1,22 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+  I've done some HTML writing before, so this is all review. It's the JavaScript
+later that won't be. I'd say, if I've applied what I'd consider actual skills in
+the first lesson, it's going from a mockup to an actual web page. The Slack has
+been interesting, but I'm not entirely sure that it's helpful at the admittedly-
+early point I'm at right now.
+
+  It's been really easy converting the markdown to actual HTML, though figuring
+out what some tags are called or how they're formatted is occasionally annoying.
+
+  There hasn't really been many challenges in the lessons so far, other than
+figuring out what the long line on the bottom was supposed to be. That was just
+simple documentation research in the MDN.
