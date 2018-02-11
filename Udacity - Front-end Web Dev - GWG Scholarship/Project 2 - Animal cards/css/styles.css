@@ -1,0 +1,55 @@
+/* add your CSS here */
+.card {
+  width: 480px;
+  padding-left: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #D4D4D4;
+  box-shadow: 10px 10px 1px #E9E9E9;
+}
+.cardinfo {
+  width: 465px;
+  padding-left: 12px;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #D4D4D4;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.6em;
+}
+
+img {
+  width: 465px;
+  height: auto;
+  padding-bottom: 12px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1em;
+  line-height: 1.35;
+}
+.fact {
+  font-style: italic;
+}
+.credit {
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+
+ul {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1em;
+  line-height: 1.1;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.label {
+  font-size: 1.15em;
+  font-weight: bold;
+}
